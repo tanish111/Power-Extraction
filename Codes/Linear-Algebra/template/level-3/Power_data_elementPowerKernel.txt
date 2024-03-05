@@ -1,0 +1,4 @@
+elementPowerKernel, 3969, 256, 39, 39, 39 , 7468600.000000, 0, 
+elementPowerKernel, 1, 256, 39, 39, 39 , 297321.000000, 0, 
+elementPowerKernel, 25, 4, 39, 39, 39 , 418627.000000, 0, 
+elementPowerKernel, 2500, 4, 39, 39, 39 , 996579.000000, 0, 
